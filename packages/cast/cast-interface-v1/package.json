@@ -2,9 +2,9 @@
   "author": "Société Générale Forge",
   "description": "Interface with the blockchain",
   "dependencies": {
-    "@castframework/transaction-manager": "1.0.2-alpha.3",
-    "@castframework/blockchain-driver-eth": "1.0.2-alpha.3",
-    "@castframework/blockchain-driver-tz": "1.0.2-alpha.3",
+    "@castframework/transaction-manager": "1.0.3",
+    "@castframework/blockchain-driver-eth": "1.0.3",
+    "@castframework/blockchain-driver-tz": "1.0.3",
     "@taquito/taquito": "^11.0.2",
     "bignumber.js": "^9.0.2",
     "faker": "^5.5.3",
